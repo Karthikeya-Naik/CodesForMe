@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
