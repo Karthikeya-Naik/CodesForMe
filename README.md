@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
