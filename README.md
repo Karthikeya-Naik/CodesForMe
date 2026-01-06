@@ -23,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0196-delete-duplicate-emails) |
+| [0577-employee-bonus](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
