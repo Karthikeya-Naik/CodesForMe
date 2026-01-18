@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0013-roman-to-integer) |
 ## Database
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0620-not-boring-movies) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
