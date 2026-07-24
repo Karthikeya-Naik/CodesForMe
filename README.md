@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
