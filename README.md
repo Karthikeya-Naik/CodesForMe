@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
