@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,4 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
