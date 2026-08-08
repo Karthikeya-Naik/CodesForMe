@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0202-happy-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
