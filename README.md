@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0202-happy-number) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0225-implement-stack-using-queues) |
 ## String Matching
 |  |
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
