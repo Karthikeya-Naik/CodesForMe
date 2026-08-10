@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0066-plus-one) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0069-sqrtx) |
 ## Tree
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
