@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0119-pascals-triangle-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Karthikeya-Naik/CodesForMe/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
